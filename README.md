@@ -1,2 +1,2 @@
 # Coursera1
-This is my Coursera google automation course.
+I am editing the README file. Adding some more details about the project description.
